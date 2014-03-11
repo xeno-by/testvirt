@@ -9,3 +9,5 @@ but falls back to scala's scala-compiler.jar for 2.10.2, which is awkward, but r
 
 I vaguely remember reading somewhere that there was (still is?) a problem with how SBT treats
 certain version strings. Maybe this could be the case?
+
+Discussion: [https://github.com/sbt/sbt/issues/1172](https://github.com/sbt/sbt/issues/1172)
